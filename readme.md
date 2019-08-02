@@ -13,3 +13,14 @@ para tf
     source /c/ProgramData/Anaconda3/etc/profile.d/conda.sh
     conda activate nombre
 ```
+
+## Extras
+
+instalar todo nltk
+
+´´´python
+    import nltk
+    nltk.download()
+
+´´´
+usar solo una vez
